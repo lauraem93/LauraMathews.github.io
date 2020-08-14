@@ -17,4 +17,4 @@ A data scientist uses more/larger data sets than a statistician. Both use models
 
 How do you view yourself in relation to these two areas?
 
-My academic background is in biology and I currently work in professional athletics. I have a little programming experience, but not much. I think I am closer to being a statistician than a data scientist. However, I really enjoy learning about data analytics.
+My academic background is in biology and I currently work in professional athletics. I have a little programming experience, but not much. I think I am closer to being a statistician than a data scientist. However, I really enjoy learning about programming and data analytics.
