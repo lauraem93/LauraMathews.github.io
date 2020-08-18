@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**About Me**
+
+I am a student at *NCSU*. I am in the master's degree program for **Statistics**. I am also a `professional triathlete`.
 
 ### More Information
 
