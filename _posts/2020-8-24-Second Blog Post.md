@@ -1,5 +1,3 @@
-#Blog Post 2
-
 **Questions**
 
 What are your thoughts on R vs whatever other software you've used?  What functionality do you like about R?  
