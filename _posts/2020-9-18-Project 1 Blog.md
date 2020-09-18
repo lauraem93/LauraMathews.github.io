@@ -4,7 +4,7 @@ This viginette creates functions to access two hockey data APIs and a final func
 
 ## Project Link ##
 
-link[https://lauraem93.github.io/Project1/]
+[Project 1](https://lauraem93.github.io/Project1/)
 
 ## Process of Creating the Viginette ##
 This project required a lot of planning ahead. I found it very helpful to plan out on paper how I would approach creating the functions rather than just jumping right into the programming. There were a lot of little pieces to keep up with and add to the project. Even creating a broad plan first, it was difficult to figure out how to add something in if I found I had forgotten to include it (such as the ability to access the data from team name or id number). I had to be very careful to not mess up the rest of the work that had already been done in the function. I could have been more organized with creating the functions and would make sure I had all of the pieces I needed planned out first. Looking back I also would have created the url differently in my functions. For each modifier, filter, teamID, etc. specified, I created the url immediately after manipulating the user input. It may have been more efficient to manipulate the different pieces and save them and then at the end of the function create a url that puts all of the pieces together.
